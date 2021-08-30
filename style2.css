@@ -1,0 +1,23 @@
+/* page cours */
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+.admin-content{
+    padding: 40px 100px 100px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+  }
+  
+ th, td{
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #d3d3d3;
+  }
